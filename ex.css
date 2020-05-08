@@ -1,0 +1,39 @@
+body {
+  background-color: grey;
+}
+h1 {
+  background-color: black;
+  color: blue;
+  outline-style: solid;
+  outline-color: black;
+  outline-width: 4px;
+  text-align: center;
+}
+h2 {
+  color: black;
+  text-align: center;
+}
+p {
+  color: black;
+  text-align: center;
+}
+form {
+	text-align: center;
+
+}
+#res {
+  color: red;
+  text-align: center;
+}
+.button {
+  background-color: blue;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
